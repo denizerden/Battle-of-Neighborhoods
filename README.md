@@ -2,21 +2,20 @@
 
 ## 1-Introduction
 
-The premise of this investigation is to help a little gathering of speculators intending to open their first U.S. based bottling works/eatery extension in Toronto. Being that Toronto is the most populated city in Canada, and constantly positions as a significant worldwide city dependent on a high caliber of living, the decision to venture into the neighbor of the north market was a simple choice for the contributing gathering.
+Toronto is the capital and most populous city of Canada, with a population of 2,731,571 as 2016. The city limits cover an area of 2,511 square kilometers, while the metropolitan area covers over 26,000 square kilometers, Moscow is among the world’s largest cities, being the most popular city in Europe. This is why I choose the Toronto for my project.
 
-With it's various culture , there are different restaurants. There are numerous cafés in Toronto, each having a place with various classes like Chinese , Indian , French and so forth.
+Current to 2016, the Toronto evaluation metropolitan zone (CMA), of which the larger part is inside the Greater Toronto Area (GTA), held a population of 5,928,040, making it Canada's most crowded CMA and the fourth most crowded city in North America. Toronto is a universal focus of business, account, expressions, and culture, and is perceived as one of the most multicultural and cosmopolitan urban areas on the planet. More than 50 percent of residents belong to a visible minority population group, and over 200 distinct ethnic origins are represented among its inhabitants.
 
-So as part of this project , we will list and visualise all major parts of Toronto that has great Italian restaurants.
+Problem is if you want to open a restaurant in Toronto, which world cuisine it should be according to people’s rankings to restaurants in Toronto.
+
 
 ## 2-Data
 
 For this project we need the following data :
 
--Toronto data that contains list Boroughs, Neighborhoods along with their latitude and longitude. Data source:
-https://en.wikipedia.org/wiki/List_of_city-designated_neighbourhoods_in_Toronto
+-Toronto data that contains list Boroughs, Neighborhoods along with their latitude and longitude. Data source: https://en.wikipedia.org/wiki/List_of_city-designated_neighbourhoods_in_Toronto
 
--Italian resturants in each neighborhood of Toronto. Data source:
-Foursquare API
+-Restaurants in each neighborhood of Toronto and  to get the most common venues of given Borough of Toronto. Data source: Foursquare API
 
--GeoSpace data. Data source:
-https://open.toronto.ca/dataset/neighbourhoods/
+-GeoSpace data which is showing the Second-level Administrative Divisions of the Toronto. I used it for create map. Data source: https://open.toronto.ca/dataset/neighbourhoods/
+
